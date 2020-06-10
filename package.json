@@ -1,15 +1,17 @@
-{
-	"name": "Oblique Strategies",
-	"displayName": "oblique strategies",
+{	
+	"icon": "icon.png",
+	"name": "oblique-strategies",
+	"displayName": "Oblique Strategies",
 	"description": "Shows a random oblique stratergy in the status bar",
-	"version": "1.0.",
-	"publisher": "dcrgll",
+	"galleryBanner.color": "292929",
+	"version": "1.0.0",
+	"publisher": "DanCargill",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-extension-samples"
+		"url": "https://github.com/dcrgll/vscode-oblique-stratergies"
 	},
 	"bugs": {
-		"url": "https://github.com/Microsoft/vscode-extension-samples/issues"
+		"url": "https://github.com/dcrgll/vscode-oblique-stratergies/issues"
 	},
 	"engines": {
 		"vscode": "^1.32.0"
