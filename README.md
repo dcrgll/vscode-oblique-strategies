@@ -78,8 +78,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-dan - [@dcrgll](https://twitter.com/dcrgll)
-Project Link: [dancargill.uk](https://dancargill.uk)
+[@dcrgll](https://twitter.com/dcrgll)
+<br >
+more: [dancargill.uk](https://dancargill.uk)
 
 
 
