@@ -7,12 +7,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/dcrgll/vscode-oblique-strategies">
-    <img src="/icon.png" alt="Logo" width="128" height="128">
-  </a>
 
   <h3 align="center">Oblique strategies for VSCode!</h3>
 
