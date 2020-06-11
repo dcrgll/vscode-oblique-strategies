@@ -1,6 +1,3 @@
-
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -43,6 +40,10 @@
 
 
 ### Installation
+
+You can download the extension direct to VSCode [here](https://marketplace.visualstudio.com/items?itemName=DanCargill.oblique-strategies
+)
+#### Manual Install
  
 1. Clone the repo
 ```sh
