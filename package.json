@@ -37,6 +37,5 @@
 		"@types/vscode": "^1.32.0"
 	},
 	"dependencies": {
-		"oblique-strategies": "^1.0.1"
 	}
 }

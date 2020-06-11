@@ -16,6 +16,8 @@
 
   <h3 align="center">Oblique strategies for VSCode!</h3>
 
+ [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
   <p align="center">
     A new oblique stratergy in the status bar with every click.
     <br />
@@ -30,10 +32,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Installation](#installation)
 
 * [Contributing](#contributing)
 * [License](#license)
@@ -45,9 +46,6 @@
 
 * [TypeScript]()
 * [VSCode]()
-* []()
-
-
 
 
 ### Installation
@@ -60,8 +58,6 @@ git clone https://github.com/dcrgll/vscode-oblique-strategies.git
 ```sh
 npm install
 ```
-
-
 
 
 

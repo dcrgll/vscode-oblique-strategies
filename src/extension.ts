@@ -1,13 +1,8 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
-/*---------------------------------------------------------
- * Copyright (C) Microsoft Corporation. All rights reserved.
- *--------------------------------------------------------*/
-
 
 import * as vscode from 'vscode';
+import {strategies} from './Strategies';
 
 let myStatusBarItem: vscode.StatusBarItem;
-const oblique = require('oblique-strategies');
 
 export function activate({ subscriptions }: vscode.ExtensionContext) {
 
@@ -15,7 +10,8 @@ export function activate({ subscriptions }: vscode.ExtensionContext) {
 	// item is selected
 	const myCommandId = 'sample.showSelectionCount';
 	subscriptions.push(vscode.commands.registerCommand(myCommandId, () => {
-		myStatusBarItem.text = oblique.draw();
+		myStatusBarItem.text = strategies[Math.floor(Math.random() * strategies.length)];
+	
 	}));
 
 	// create a new status bar item that we can now manage
@@ -33,8 +29,13 @@ export function activate({ subscriptions }: vscode.ExtensionContext) {
 }
 
 function updateStatusBarItem(): void {
-	myStatusBarItem.text = `$(zap)`;
+	myStatusBarItem.text = `$(squirrel)`;
 	myStatusBarItem.show();
 }
 
 
+function draw(): string
+{
+
+    return strategies[1];
+}
