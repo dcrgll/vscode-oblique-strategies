@@ -78,9 +78,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/dcrgll) - email
-
-Project Link: [https://github.com/dcrgll/vscode-oblique-strategies](https://github.com/dcrgll/vscode-oblique-strategies)
+dan - [@dcrgll](https://twitter.com/dcrgll)
+Project Link: [dancargill.uk](https://dancargill.uk)
 
 
 
