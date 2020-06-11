@@ -105,4 +105,4 @@ Project Link: [https://github.com/dcrgll/vscode-oblique-strategies](https://gith
 [license-url]: https://github.com/dcrgll/vscode-oblique-strategies/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dancargill
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/dcrgll/vscode-oblique-strategies/blob/master/demo.gif?raw=true
