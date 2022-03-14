@@ -1,10 +1,6 @@
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
   <h3 align="center">Oblique strategies for VSCode!</h3>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/dcrgll.png)
 
   <p align="center">
     A new oblique stratergy in the status bar with every click.
