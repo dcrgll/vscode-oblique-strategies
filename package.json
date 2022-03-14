@@ -1,41 +1,44 @@
-{	
-	"icon": "icon.png",
-	"name": "oblique-strategies",
-	"displayName": "Oblique Strategies",
-	"description": "Shows a random oblique stratergy in the status bar",
-	"galleryBanner.color": "292929",
-	"version": "1.0.0",
-	"publisher": "DanCargill",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/dcrgll/vscode-oblique-stratergies"
-	},
-	"bugs": {
-		"url": "https://github.com/dcrgll/vscode-oblique-stratergies/issues"
-	},
-	"engines": {
-		"vscode": "^1.32.0"
-	},
-	"categories": [
-		"Other"
-	],
-	"activationEvents": [
-		"*"
-	],
-	"main": "./out/extension.js",
-	"scripts": {
-		"vscode:prepublish": "npm run compile",
-		"compile": "tsc -p ./",
-		"lint": "eslint . --ext .ts,.tsx",
-		"watch": "tsc -watch -p ./"
-	},
-	"devDependencies": {
-		"typescript": "^3.9.4",
-		"@typescript-eslint/eslint-plugin": "^3.0.2",
-		"@typescript-eslint/parser": "^3.0.2",
-		"eslint": "^7.1.0",
-		"@types/vscode": "^1.32.0"
-	},
-	"dependencies": {
-	}
+{
+  "name": "oblique-stratergies",
+  "displayName": "oblique-stratergies",
+  "description": "A Code extension which displays a random oblique stratergy in the status bar.",
+  "galleryBanner.color": "292929",
+  "version": "1.0.0",
+  "publisher": "dcrgll",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "oblique-stratergies.helloWorld",
+        "title": "Hello World"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "yarn run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "14.x",
+    "@types/vscode": "^1.65.0",
+    "@vscode/test-electron": "^2.1.2",
+    "eslint": "^8.9.0",
+    "glob": "^7.2.0",
+    "husky": "^7.0.4",
+    "mocha": "^9.2.1",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
 }

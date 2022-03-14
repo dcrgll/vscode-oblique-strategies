@@ -2,12 +2,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-
   <h3 align="center">Oblique strategies for VSCode!</h3>
 
- [![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
   <p align="center">
     A new oblique stratergy in the status bar with every click.
@@ -18,45 +15,43 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Installation](#installation)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
 
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
-
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ### Built With
 
-* [TypeScript]()
-* [VSCode]()
-
+- [TypeScript]()
+- [VSCode]()
 
 ### Installation
 
-You can download the extension direct to VSCode [here](https://marketplace.visualstudio.com/items?itemName=DanCargill.oblique-strategies
-)
+You can download the extension direct to VSCode [here](https://marketplace.visualstudio.com/items?itemName=DanCargill.oblique-strategies)
+
 #### Manual Install
- 
+
 1. Clone the repo
+
 ```sh
 git clone https://github.com/dcrgll/vscode-oblique-strategies.git
 ```
+
 2. Install NPM packages
+
 ```sh
 npm install
 ```
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -67,27 +62,23 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 [@dcrgll](https://twitter.com/dcrgll)
 <br >
 more: [dancargill.uk](https://dancargill.uk)
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/dcrgll/vscode-oblique-strategies/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
