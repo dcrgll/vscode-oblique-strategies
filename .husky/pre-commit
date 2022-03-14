@@ -3,4 +3,4 @@
 
 yarn lint
 yarn test
-yarn prettier --check "src/**/*.js"
+yarn prettier --check "src/*.js"

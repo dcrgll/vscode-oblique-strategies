@@ -8,7 +8,7 @@ jobs:
       - name: Install modules
         run: yarn
       - name: Run Prettier
-        run: npx prettier --check "src/*.js"
+        run: npx prettier --check "src/**/*.js"
   ESLint:
     runs-on: ubuntu-latest
     steps:
