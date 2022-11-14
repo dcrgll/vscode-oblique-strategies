@@ -3,7 +3,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://github.com/dcrgll.png)
 
   <p align="center">
-    A new oblique stratergy in the status bar with every click.
+    A new oblique strategy in the status bar with every click.
     <br />
     <a href="https://github.com/dcrgll/vscode-oblique-strategies/issues">Report Bug</a>
     ·
