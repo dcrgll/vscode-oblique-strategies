@@ -70,7 +70,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [@dcrgll](https://twitter.com/dcrgll)
 <br >
-more: [dancargill.uk](https://dancargill.uk)
+more: [cargill.dev](https://www.cargill.dev)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
