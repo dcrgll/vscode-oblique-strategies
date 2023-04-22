@@ -30,14 +30,14 @@
   },
   "devDependencies": {
     "@types/glob": "^8.0.0",
-    "@types/mocha": "^9.1.0",
+    "@types/mocha": "^10.0.1",
     "@types/node": "18.x",
     "@types/vscode": "^1.76.0",
     "@vscode/test-electron": "^2.1.2",
     "eslint": "^8.38.0",
     "glob": "^9.3.2",
     "husky": "^8.0.3",
-    "mocha": "^9.2.1",
+    "mocha": "^10.2.0",
     "prettier": "^2.8.7",
     "typescript": "^5.0.4"
   }
