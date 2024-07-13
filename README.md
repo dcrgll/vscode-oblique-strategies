@@ -1,6 +1,6 @@
   <h3 align="center">Oblique strategies for VSCode!</h3>
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/dcrgll.png)
+![Oblique Strategies in action](https://raw.githubusercontent.com/dcrgll/vscode-oblique-strategies/main/demo.gif)
 
   <p align="center">
     A new oblique strategy in the status bar with every click.
