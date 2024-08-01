@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/glob": "^8.0.0",
     "@types/mocha": "^9.1.0",
-    "@types/node": "20.x",
+    "@types/node": "22.x",
     "@types/vscode": "^1.76.0",
     "@vscode/test-electron": "^2.3.0",
     "eslint": "^8.38.0",
